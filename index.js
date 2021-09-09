@@ -19,9 +19,9 @@ console.log("O nome da peça tem que ter mais de 03 caracteres.");
 }
 
 if (peso >=100) {
-console.log ("Correto peso de "+ peso +"g.")    
+console.log ("Correto peso de "+ peso +"g.");    
 }
 
 else if (peso <100) {
-console.log ("Erro a peça deve ter um peso superior ou igual a 100g.")
+console.log ("Erro a peça deve ter um peso superior ou igual a 100g.");
 }
